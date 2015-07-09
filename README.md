@@ -22,7 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To use Onetwodixie's Rock Paper Scissors game, create a new object 'game = Onetwodixie::Onetwodixie.new'
+and then execute the game_setup method 'game.game_setup'
 
 ## Development
 
